@@ -1,0 +1,6 @@
+{
+    "require":{
+    "monolog/monolog":"1.0.*",
+        "africastalking/africastalking": "^2.3"
+    }
+}
